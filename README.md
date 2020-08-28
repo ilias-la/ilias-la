@@ -9,9 +9,6 @@
 - 💬 Ask me about **OOP, Python, UNIX, Cybersecurity**
 - ⚡ Fun fact **Best software is coded at night**
 
-<p align="middle">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilias-la&show_icons=true&count_private=true&theme=dark&include_all_commits=true" alt="ilias-la" /></p>
-
 <h3>Things I code with</h3>
 
 #### Programming Languages
@@ -77,4 +74,5 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilias-la&layout=default" alt="ilias-la"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilias-la&show_icons=true&count_private=true&theme=dark&include_all_commits=true" alt="ilias-la" />
 </p>
