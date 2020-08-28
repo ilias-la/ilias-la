@@ -74,11 +74,7 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ilias-la&show_icons=true&count_private=true&theme=dark&include_all_commits=true&hide_border=true" alt="ilias-la" />
   
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ilias-la&show_icons=true&count_private=true&theme=dark&include_all_commits=true&hide_border=true" alt="ilias-la" />
 </details>
 
-<details>
-  <summary>:zap: Top Languages Used</summary>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilias-la&layout=default&hide_title=true" alt="ilias-la"/>
-</details>
