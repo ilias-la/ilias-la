@@ -21,7 +21,6 @@
   <img alt="C++" src="https://img.shields.io/badge/cpp-45b8d8?style=flat-square&logo=C++&color=00599C&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-45b8d8?style=flat-square&logo=CSS3&color=1572B6&logoColor=white"/>
   <img alt="D3js" src="https://img.shields.io/badge/d3js-45b8d8?style=flat-square&logo=D3.js&color=F9A03C&logoColor=white"/>
-  
   <img alt="Docker" src="https://img.shields.io/badge/docker-45b8d8?style=flat-square&logo=Docker&color=2496ED&logoColor=white"/>
   <img alt="Electron" src="https://img.shields.io/badge/electron-45b8d8?style=flat-square&logo=Electron&color=47848F&logoColor=white"/>
   <img alt="Figma" src="https://img.shields.io/badge/figma-45b8d8?style=flat-square&logo=Figma&color=F24E1E&logoColor=white"/>
@@ -32,16 +31,13 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-45b8d8?style=flat-square&logo=JavaScript&color=F7DF1E&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/linux-45b8d8?style=flat-square&logo=Linux&color=FCC624&logoColor=white"/>
   <img alt="MariaDB" src="https://img.shields.io/badge/mariadb-45b8d8?style=flat-square&logo=MariaDB&color=003545&logoColor=white"/>
-  
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
+  <img alt="MariaDB" src="https://img.shields.io/badge/mariadb-45b8d8?style=flat-square&logo=MariaDB&color=003545&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-45b8d8?style=flat-square&logo=MongoDB&color=47A248&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/node.js-45b8d8?style=flat-square&logo=Node.js&color=339933&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-45b8d8?style=flat-square&logo=PostgreSQL&color=336791&logoColor=white"/>
+  <img alt="Sass" src="https://img.shields.io/badge/sass-45b8d8?style=flat-square&logo=Sass&color=CC6699&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-45b8d8?style=flat-square&logo=TypeScript&color=007ACC&logoColor=white"/>
+  <img alt="Webpack" src="https://img.shields.io/badge/webpack-45b8d8?style=flat-square&logo=Webpack&color=8DD6F9&logoColor=white"/>
 </p>
 
 <p align="middle">&nbsp;
