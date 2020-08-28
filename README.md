@@ -17,12 +17,11 @@
   <img alt="Redis" src="https://img.shields.io/badge/redis-45b8d8?style=flat-square&logo=redis&color=DC382D&logoColor=white"/>
   <img alt="Babel" src="https://img.shields.io/badge/babel-45b8d8?style=flat-square&logo=babel&color=F9DC3E&logoColor=white"/>
   <img alt="Bash" src="https://img.shields.io/badge/bash-45b8d8?style=flat-square&logo=GNU+bash&color=4EAA25&logoColor=white"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-45b8d8?style=flat-square&logo=Bootstrap&color=563D7C&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/cpp-45b8d8?style=flat-square&logo=C++&color=00599C&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-45b8d8?style=flat-square&logo=CSS3&color=1572B6&logoColor=white"/>
+  <img alt="D3js" src="https://img.shields.io/badge/d3js-45b8d8?style=flat-square&logo=D3.js&color=F9A03C&logoColor=white"/>
   
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
