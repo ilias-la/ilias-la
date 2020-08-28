@@ -14,7 +14,7 @@
 #### Programming Languages
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-45b8d8?style=flat-square&logo=Python&color=3776AB&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/C-45b8d8?style=flat-square&logo=C&color=A8B9CC&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/-45b8d8?style=flat-square&logo=C&color=A8B9CC&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-45b8d8?style=flat-square&logo=C++&color=00599C&logoColor=white"/>
   <img alt="JAVA" src="https://img.shields.io/badge/Java-45b8d8?style=flat-square&logo=JAVA&color=007396&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-45b8d8?style=flat-square&logo=JavaScript&color=F7DF1E&logoColor=white"/>
