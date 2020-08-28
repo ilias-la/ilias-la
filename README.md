@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilias - aka j3di</h1>
 <h3 align="center">Software Developer, Engineer and UNIX enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilias-la" alt="ilias-la" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilias-la&label=Profile+Views&color=red" alt="ilias-la" /> </p>
 
 - 🔭 I’m currently working on [Real Time Cyber Attacks Map](https://dev01-vm.csd.uoc.gr/)
 
