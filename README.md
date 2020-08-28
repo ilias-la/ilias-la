@@ -72,7 +72,13 @@
   <img alt="Figma" src="https://img.shields.io/badge/Figma-45b8d8?style=flat-square&logo=Figma&color=F24E1E&logoColor=white"/>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilias-la&layout=default" alt="ilias-la"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilias-la&show_icons=true&count_private=true&theme=dark&include_all_commits=true" alt="ilias-la" />
-</p>
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ilias-la&show_icons=true&count_private=true&theme=dark&include_all_commits=true&hide_border=true" alt="ilias-la" />
+  
+</details>
+
+<details>
+  <summary>:zap: Top Languages Used</summary>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilias-la&layout=default&hide_title=true" alt="ilias-la"/>
+</details>
