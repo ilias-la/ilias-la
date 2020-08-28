@@ -14,6 +14,8 @@
 - ⚡ Fun fact **Best software is coded at night**
 
 <p align="left">
+  <img alt="Redis" src="https://img.shields.io/badge/redis-45b8d8?style=flat-square&logo=redis&color=DC382D&logoColor=white"/>
+  
   <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
