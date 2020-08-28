@@ -22,17 +22,17 @@
   <img alt="CSS3" src="https://img.shields.io/badge/css3-45b8d8?style=flat-square&logo=CSS3&color=1572B6&logoColor=white"/>
   <img alt="D3js" src="https://img.shields.io/badge/d3js-45b8d8?style=flat-square&logo=D3.js&color=F9A03C&logoColor=white"/>
   
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
+  <img alt="Docker" src="https://img.shields.io/badge/docker-45b8d8?style=flat-square&logo=Docker&color=2496ED&logoColor=white"/>
+  <img alt="Electron" src="https://img.shields.io/badge/electron-45b8d8?style=flat-square&logo=Electron&color=47848F&logoColor=white"/>
+  <img alt="Figma" src="https://img.shields.io/badge/figma-45b8d8?style=flat-square&logo=Figma&color=F24E1E&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/git-45b8d8?style=flat-square&logo=Git&color=F05032&logoColor=white"/>
+  <img alt="NGINX" src="https://img.shields.io/badge/nginx-45b8d8?style=flat-square&logo=NGINX&color=269539&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-45b8d8?style=flat-square&logo=HTML5&color=E34F26&logoColor=white"/>
+  <img alt="JAVA" src="https://img.shields.io/badge/java-45b8d8?style=flat-square&logo=JAVA&color=007396&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-45b8d8?style=flat-square&logo=JavaScript&color=F7DF1E&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/linux-45b8d8?style=flat-square&logo=Linux&color=FCC624&logoColor=white"/>
+  <img alt="MariaDB" src="https://img.shields.io/badge/mariadb-45b8d8?style=flat-square&logo=MariaDB&color=003545&logoColor=white"/>
+  
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
