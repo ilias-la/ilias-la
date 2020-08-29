@@ -59,7 +59,7 @@
 [chartjs]: https://img.shields.io/badge/Chart.js-45b8d8?style=flat-square&color=F9A03C&logoColor=white "Chart.js"
 [Docker]: https://img.shields.io/badge/Docker-45b8d8?style=flat-square&logo=Docker&color=2496ED&logoColor=white "Docker"
 [Kubernetes]: https://img.shields.io/badge/Kubernetes-45b8d8?style=flat-square&logo=Kubernetes&color=326CE5&logoColor=white "Kubernetes"
-[AmazonAWS]: https://img.shields.io/badge/Amazon+AWS-45b8d8?style=flat-square&logo=Amazon+AWS&color=232F3E&logoColor=white "AmazonAWS"
+[AmazonAWS]: https://img.shields.io/badge/Amazon+AWS-45b8d8?style=flat-square&logo=Amazon%20AWS&color=232F3E&logoColor=white "AmazonAWS"
 [Electron]: https://img.shields.io/badge/Electron-45b8d8?style=flat-square&logo=Electron&color=47848F&logoColor=white "Electron"
 [Linux]: https://img.shields.io/badge/Linux-45b8d8?style=flat-square&logo=Linux&color=FCC624&logoColor=white "Linux"
 [Git]: https://img.shields.io/badge/Git-45b8d8?style=flat-square&logo=Git&color=F05032&logoColor=white "Git"
