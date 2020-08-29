@@ -1,8 +1,10 @@
 <p align="left">
-    <img alt="ilias-la" src="https://komarev.com/ghpvc/?username=ilias-la&label=Profile+Views&color=red"/> 
+    <img alt="ilias-la" src="https://komarev.com/ghpvc/?username=ilias-la&label=Profile+Views&color=red"/>
 </p>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ilias</h1>
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="25px">, I'm Ilias</h1>
+
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="25px">, I'm Ilias</h1>
 
 <h3 align="center">Computer Scientist, Software Developer/Engineer and UNIX enthusiast</h3>
 
