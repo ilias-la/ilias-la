@@ -6,7 +6,7 @@
 
 <h3 align="center">Computer Scientist, Software Developer/Engineer and UNIX enthusiast</h3>
 
-<img align="right" alt="GIF" src="https://github.com/ilias-la/ilias-la/blob/master/creator.gif?raw=true" width="500" height="250" />
+<img align="right" alt="GIF" src="https://github.com/ilias-la/ilias-la/blob/master/creator.gif?raw=true" width="420" height="250" />
 
 - 🔭 I’m currently working on [Real Time Cyber Attacks Map](https://dev01-vm.csd.uoc.gr/)
 - 🌱 I’m currently learning **everything**
