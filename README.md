@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ilias</h1>
 <h3 align="center">Computer Scientist, Software Developer/Engineer and UNIX enthusiast</h3>
 
-<img align="right" alt="GIF" src="https://tmpfiles.org/dl/70998/creator.gif" width="500" height="270" />
+<img align="right" alt="GIF" src="https://github.com/ilias-la/ilias-la/blob/master/creator.gif?raw=true" width="500" height="270" />
 
 - 🔭 I’m currently working on [Real Time Cyber Attacks Map](https://dev01-vm.csd.uoc.gr/)
 - 🌱 I’m currently learning **everything**
@@ -16,7 +16,6 @@
 
 <details>
     <summary>💎 Things I code with</summary>
-
 
 |  | |
 | --------------------- |:-----------------------------------------------------------------------------------------------------------------------------------:| 
