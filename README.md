@@ -4,8 +4,6 @@
 
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="25px">, I'm Ilias</h1>
 
-<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="25px">, I'm Ilias</h1>
-
 <h3 align="center">Computer Scientist, Software Developer/Engineer and UNIX enthusiast</h3>
 
 <img align="right" alt="GIF" src="https://github.com/ilias-la/ilias-la/blob/master/creator.gif?raw=true" width="500" height="250" />
