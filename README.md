@@ -2,17 +2,17 @@
     <img alt="ilias-la" src="https://komarev.com/ghpvc/?username=ilias-la&label=Profile+Views&color=red"/> 
 </p>
 
-<h1 align="center">Hi 👋, I'm Ilias</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ilias</h1>
 <h3 align="center">Computer Scientist, Software Developer/Engineer and UNIX enthusiast</h3>
 
 - 🔭 I’m currently working on [Real Time Cyber Attacks Map](https://dev01-vm.csd.uoc.gr/)
 - 🌱 I’m currently learning **everything**
 - 🤝 I’m looking for help with **open source**
-- 💬 Ask me about **OOP, Python, UNIX, Cybersecurity**
-- ⚡ Fun fact **Best software is coded at night**
+- 🥅 2020 Goals: **Contribute more to Open Source projects**
+- 🔰 Fun fact **the best software is coded at night**
 
 <details>
-    <summary>:gem: Things I code with</summary>
+    <summary>💎 Things I code with</summary>
     
 <h4>Programming Languages</h4>
 <p align="left">
@@ -78,7 +78,7 @@
 
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>💎 Github Stats</summary>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ilias-la&show_icons=true&count_private=true&theme=dark&include_all_commits=true&hide_border=true" alt="ilias-la" />
 </details>
