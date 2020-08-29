@@ -34,7 +34,7 @@
 <details>
   <summary>💎 Github Stats</summary>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ilias-la&show_icons=true&count_private=true&theme=dark&include_all_commits=true&hide_border=true" alt="ilias-la" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ilias-la&show_icons=true&count_private=true&theme=dark&include_all_commits=true&hide_border=true" alt="ilias-la" />
 </details>
 
 [python]: https://img.shields.io/badge/Python-45b8d8?style=flat-square&logo=Python&color=3776AB&logoColor=white "Python"
