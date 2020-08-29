@@ -3,16 +3,16 @@
 </p>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ilias</h1>
+
 <h3 align="center">Computer Scientist, Software Developer/Engineer and UNIX enthusiast</h3>
 
-<img align="right" alt="GIF" src="https://github.com/ilias-la/ilias-la/blob/master/creator.gif?raw=true" width="500" height="270" />
+<img align="right" alt="GIF" src="https://github.com/ilias-la/ilias-la/blob/master/creator.gif?raw=true" width="500" height="250" />
 
 - 🔭 I’m currently working on [Real Time Cyber Attacks Map](https://dev01-vm.csd.uoc.gr/)
 - 🌱 I’m currently learning **everything**
 - 🤝 I’m looking for help with **open source**
 - 🥅 2020 Goals: **Contribute more to Open Source projects**
 - 🔰 Fun fact **the best software is coded at night**
-
 
 <details>
     <summary>💎 Things I code with</summary>
@@ -30,11 +30,10 @@
 
 </details>
 
-
 <details>
   <summary>💎 Github Stats</summary>
 
-<img align="right" style="margin-top: 15px;" src="https://github-readme-stats.vercel.app/api?username=ilias-la&show_icons=true&count_private=true&theme=dark&include_all_commits=true&hide_border=true" alt="ilias-la" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ilias-la&show_icons=true&count_private=true&theme=dark&include_all_commits=true&hide_border=true" alt="ilias-la" />
 </details>
 
 [python]: https://img.shields.io/badge/Python-45b8d8?style=flat-square&logo=Python&color=3776AB&logoColor=white "Python"
