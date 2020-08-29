@@ -18,7 +18,7 @@
     <summary>💎 Things I code with</summary>
 
 |  | |
-| --------------------- |:-----------------------------------------------------------------------------------------------------------------------------------:| 
+| --------------------- |:-----------------------------------------------------------------------------------------------------------------------------------| 
 | Programming Languages | <code>![python]</code> <code>![C++]</code> <code>![JAVA]</code> <code>![JavaScript]</code> ![TypeScript]</code> <code> ![C]</code> <code> |
 | Frontend Development  | <code>![HTML5]</code> <code>![CSS3]</code> <code>![Sass]</code> <code>![Bootstrap]</code> <code>![Webpack]</code> <code>![Babel]</code> <code>![Gulp]</code> |
 | Backend Development   | <code>![Node]</code> <code>![NGINX]</code> |
