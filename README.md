@@ -14,7 +14,7 @@
 <details>
     <summary>:gem: Things I code with</summary>
     
-<h4> Programming Languages </h4>
+<h4>Programming Languages</h4>
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-45b8d8?style=flat-square&logo=Python&color=3776AB&logoColor=white"/>
   <img alt="C" src="https://img.shields.io/badge/-45b8d8?style=flat-square&logo=C&color=A8B9CC&logoColor=white"/>
