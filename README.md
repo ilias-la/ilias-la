@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [Real Time Cyber Attacks Map](https://dev01-vm.csd.uoc.gr/)
 - 🌱 I’m currently learning **everything**
 - 🤝 I’m looking for help with **open source**
-- 🥅 2022 Goals: **Contribute more to Open Source projects**
+- 🥅 2024 Goals: **Contribute more to Open Source projects**
 - 🔰 Fun fact **the best software is coded at night**
 
 <details>
